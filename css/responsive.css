@@ -1,0 +1,62 @@
+@media only screen and (max-width: 600px) {
+  .trends-section img {
+    width: 100%;
+  }
+  .headline-section img {
+    width: 100%;
+  }
+  .header-section {
+    padding: 30px 15px !important;
+  }
+  .sticky {
+    background: #fff;
+    box-shadow: 0 0 10px #858585 !important;
+  }
+
+  /* Hero section  */
+  .hero-section {
+    padding: 31% 15px !important;
+  }
+
+  .companies-section img {
+    margin: 0 auto 38px auto;
+    display: flex;
+  }
+
+  .max-width-75 {
+    max-width: 100% !important;
+  }
+
+  .customer-section {
+    padding: 0 15px;
+  }
+
+  .customer-section h1,
+  .achivement-section h1,
+  .headline-section h1,
+  .trends-section h1,
+  .manage-project-section h1 {
+    font-size: 34px;
+  }
+
+  .achivement-section p {
+    margin-bottom: 20px;
+  }
+
+  .achivement-section .single-achivement .text {
+    padding-top: 15px;
+  }
+
+  .headline-section h1 {
+    padding-top: 40px;
+  }
+
+  .footer-section .left-section .d-flex {
+    display: block !important;
+    margin-top: 15px;
+  }
+
+  .footer-section h2 {
+    margin-top: 20px;
+  }
+}
